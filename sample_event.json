@@ -1,6 +1,0 @@
-{
-  "event_id": "demo-001",
-  "symbol": "DEMO",
-  "event_type": "price_alert",
-  "price": 125.50
-}
